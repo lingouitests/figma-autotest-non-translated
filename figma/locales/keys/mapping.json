@@ -1,0 +1,16 @@
+[{
+  "key":"myPrefix_nontrans_1",
+  "value":"non-translated one",
+  "nodeID":"1",
+  "lastChanged":1766388292
+},{
+  "key":"myPrefix_nontrans_2",
+  "value":"non-translated two",
+  "nodeID":"2",
+  "lastChanged":1766388292
+},{
+  "key":"myPrefix_nontrans_3",
+  "value":"non-translated three",
+  "nodeID":"3",
+  "lastChanged":1766388292
+}]
